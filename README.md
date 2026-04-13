@@ -45,7 +45,7 @@ multi-object-tracking/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── screenshots/
+├── screenshots
 ├── output.mp4
 │     
 ```
@@ -111,7 +111,7 @@ It contains bounding boxes, IDs, and trajectories for tracked objects.
 ## Demo and Output Videos
 
 Demo Video:  
-
+https://drive.google.com/file/d/19JDtNp0WTGUQpMwLhhruQTGDJ2APZtTE/view?usp=sharing
 
 Output Video:  
 https://drive.google.com/file/d/1kNM1RBkkAsle2Bs4EF1fwtrAErytm7U2/view?usp=sharing
